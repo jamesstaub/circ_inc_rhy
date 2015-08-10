@@ -13,4 +13,9 @@ The javascript loaded in Iannix generates a sequence of 1's and 0's to represent
 
 Iannix sends OSC data to Max/MSP where the triggers and time data are mapped to various sound-controlling parameters.
 
-
+## to use
+1. install [iannix](http://www.iannix.org/) and [ Max/MSP](http://www.cycling74.com/) (trial version should work fine.)
+2. open the respective files in iannix and max
+3. turn on audio and adjust gain sliders in Max/MSP
+4. press play in Iannix timeline
+5. profit
